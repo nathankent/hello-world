@@ -13,5 +13,8 @@ printf("Both said");
 printf("Quicker version");
 
 
+
+
+
 return 0;
 }
